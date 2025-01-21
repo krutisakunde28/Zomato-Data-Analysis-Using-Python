@@ -20,17 +20,19 @@ Tools Used
   
    matplotlib and seaborn for creating charts.
   
-*Dataset*
+Dataset
 - The project uses a dataset with details like:
    Restaurant name
    Ratings and votes
    Cost for two people
    Online ordering availability
    Restaurant type
-*Future Plans*
+
+Future Plans
 - Add predictions using machine learning.
 - Analyze customer reviews (text).
 - Create interactive charts.
-*Contributions*
+
+Contributions
 - You can suggest changes or add new features by creating a pull request.
 
