@@ -13,7 +13,8 @@ This project performs an analysis of Zomato restaurant data to uncover insights 
 - Interesting Findings:
    Found the restaurant with the highest votes.
    Checked how much people spend for two at different restaurants.
-*Tools Used*
+
+Tools Used
 - Python Libraries:
    pandas and numpy for data analysis.
    matplotlib and seaborn for creating charts. 
