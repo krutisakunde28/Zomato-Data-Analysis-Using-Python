@@ -17,7 +17,9 @@ This project performs an analysis of Zomato restaurant data to uncover insights 
 Tools Used
 - Python Libraries:
    pandas and numpy for data analysis.
-   matplotlib and seaborn for creating charts. 
+  
+   matplotlib and seaborn for creating charts.
+  
 *Dataset*
 - The project uses a dataset with details like:
    Restaurant name
