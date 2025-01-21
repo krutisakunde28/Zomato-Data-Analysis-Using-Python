@@ -1,3 +1,4 @@
+
 # Zomato-Data-Analysis-Using-Python
 Overview:
 
@@ -22,11 +23,16 @@ Tools Used
   
 Dataset
 - The project uses a dataset with details like:
-   Restaurant name
-   Ratings and votes
-   Cost for two people
-   Online ordering availability
-   Restaurant type
+
+  Restaurant name
+
+  Ratings and votes
+
+  Cost for two people
+
+  Online ordering availability
+
+  Restaurant type
 
 Future Plans
 - Add predictions using machine learning.
